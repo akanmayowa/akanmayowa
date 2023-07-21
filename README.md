@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm yuebaix</h1>
-<h3 align="center">A passionate backend developer from China</h3>
+<h1 align="center">Hi 👋, I'makan</h1>
+<h3 align="center">A passionate backend developer from Nigeria</h3>
 
 ## Profile
 Property                 | Data  
