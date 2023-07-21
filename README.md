@@ -1,14 +1,55 @@
 <h1 align="center">Hi 👋, I'makan</h1>
 <h3 align="center">A passionate backend developer from Nigeria</h3>
 
-## Profile
-Property                 | Data  
--------------------------|------
-Language / IDE           | [![PHP](https://img.shields.io/badge/-Visual%20Studio-239120?style=flat&logo=C-Sharp&logoColor=white)](https://github.com/search?l=C%23&q=user%3Azmcx16&type=Repositories) [![Javascript](https://img.shields.io/badge/-PyCharm-3776AB?style=flat&logo=Python&logoColor=white)](https://github.com/search?l=Python&q=user%3Azmcx16&type=Repositories) [![Html+CSS+Javascript Badge](https://img.shields.io/badge/-Visual%20Studio%20Code-F7DF1E?style=flat&logo=Javascript&logoColor=white)](https://github.com/search?l=JavaScript&q=user%3Azmcx16&type=Repositories) 
-Tool / Framework         | [![Electron Badge](https://img.shields.io/badge/-Electron-47848F?style=flat&logo=Electron&logoColor=white)](https://github.com/zmcx16/MangaPrettier) [![React Badge](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=Electron&logoColor=white)](https://github.com/zmcx16/AxisCult) [![ASP.NET Badge](https://img.shields.io/badge/-ASP.NET-5C2D91?style=flat&logo=.net&logoColor=white)](https://github.com/search?q=user%3Azmcx16&type=Repositories) [![PyQt Badge](https://img.shields.io/badge/-PyQt-41CD52?style=flat&logo=Qt&logoColor=white)](https://github.com/zmcx16/AxisTradeCult) [![Arduino Badge](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)](https://github.com/search?q=user%3Azmcx16&type=Repositories) [![Azure Badge](https://img.shields.io/badge/-Microsoft%20Azure-0089D6?style=flat&logo=Microsoft-Azure&logoColor=white)](https://github.com/search?q=user%3Azmcx16&type=Repositories) [![Elasticsearch Badge](https://img.shields.io/badge/-Elasticsearch-005571?style=flat&logo=Elasticsearch&logoColor=white)](https://github.com/search?q=user%3Azmcx16&type=Repositories) [![Logstash Badge](https://img.shields.io/badge/-Logstash-F2BD1A?style=flat&logo=Logstash&logoColor=white)](https://github.com/search?q=user%3Azmcx16&type=Repositories) [![Kibana Badge](https://img.shields.io/badge/-Kibana-E8478B?style=flat&logo=Kibana&logoColor=white)](https://github.com/search?q=user%3Azmcx16&type=Repositories) [![photoshop Badge](https://img.shields.io/badge/-Photoshop-26C9FF?style=flat&logo=Adobe-Photoshop&logoColor=white)](https://github.com/search?q=user%3Azmcx16&type=Repositories)
-Domain Knownledge        | [![Computer Science Development Badge](https://img.shields.io/badge/-Computer%20Science-FAB040?style=flat&logoColor=white)](https://github.com/search?q=user%3Azmcx16&type=Repositories) [![Electrical Engineering Development Badge](https://img.shields.io/badge/-Electrical%20Engineering-4C8CBF?style=flat&logoColor=white)](https://github.com/search?q=user%3Azmcx16&type=Repositories) [![Software Development Badge](https://img.shields.io/badge/-Software%20Development-FF6600?style=flat&logoColor=white)](https://github.com/search?q=user%3Azmcx16&type=Repositories) [![Web Crawling Badge](https://img.shields.io/badge/-Web%20Crawling-036CB5?style=flat&logoColor=white)](https://project.zmcx16.moe/?page=mahomangadownloader) [![Machine Learning Badge](https://img.shields.io/badge/-Machine%20Learning-01D277?style=flat&logoColor=white)](https://github.com/zmcx16/AxisTradeCult)
-CI / CD                  | [![Azure Pipelines Badge](https://img.shields.io/badge/-Azure%20Pipelines-2560E0?style=flat&logo=Azure-Pipelines&logoColor=white)](https://github.com/search?q=user%3Azmcx16&type=Repositories) [![AppVeyor Badge](https://img.shields.io/badge/-AppVeyor-00B3E0?style=flat&logo=AppVeyor&logoColor=white)](https://github.com/zmcx16/MemoOffVocabulary) [![Travis-CI Badge](https://img.shields.io/badge/-Travis%20CI-3EAAAF?style=flat&logo=Travis-CI&logoColor=white)](https://github.com/zmcx16/MangaPrettier) [![Github Actions Badge](https://img.shields.io/badge/-Github%20Actions-2088FF?style=flat&logo=Github-Actions&logoColor=white)](https://github.com/zmcx16/zmcx16)
-Side Projects - App <img width=200/> | [![MahoMangaDownloader Badge](https://img.shields.io/badge/-MahoMangaDownloader-lightskyblue?style=flat&logoColor=white)](https://project.zmcx16.moe/?page=mahomangadownloader) [![AxisTradeCult Badge](https://img.shields.io/badge/-AxisTradeCult-darkorange?style=flat&logoColor=white)](https://github.com/zmcx16/AxisTradeCult) [![ChaldeaStockObservatory Badge](https://img.shields.io/badge/-ChaldeaStockObservatory-lightsteelblue?style=flat&logoColor=white)](https://github.com/zmcx16/ChaldeaStockObservatory) [![MangaPrettier Badge](https://img.shields.io/badge/-MangaPrettier-orange?style=flat&logoColor=white)](https://github.com/zmcx16/MangaPrettier) [![PhotoMosaic-Artifact Badge](https://img.shields.io/badge/-PhotoMosaic%20Artifact-deepskyblue?style=flat&logoColor=white)](https://github.com/zmcx16/PhotoMosaic-Artifact) [![OpenAI-Gym-Hearts Badge](https://img.shields.io/badge/-OpenAI%20Gym%20Hearts-darkslateblue?style=flat&logoColor=white)](https://github.com/zmcx16/OpenAI-Gym-Hearts) [![find-house-assistant-chrome-extension Badge](https://img.shields.io/badge/-find%20house%20assistant%20chrome%20extension-yellowgreen?style=flat&logoColor=white)](https://github.com/zmcx16/find-house-assistant-chrome-extension) [![MemoOffVocabulary Badge](https://img.shields.io/badge/-MemoOffVocabulary-magenta?style=flat&logoColor=white)](https://github.com/zmcx16/MemoOffVocabulary)   
-Side Projects - Web      | [![Side Project Badge](https://img.shields.io/badge/-project.zmcx16.moe-00fa9a?style=flat&logoColor=white)](https://project.zmcx16.moe/) [![Axis Cult Badge](https://img.shields.io/badge/-Axis%20Cult-00eeff?style=flat&logoColor=white)](https://axiscult.zmcx16.moe/) [![Norn Minehunter Badge](https://img.shields.io/badge/-Norn%20Minehunter-gold?style=flat&logoColor=white)](https://norn-minehunter.zmcx16.moe/) [![TW Stock Lottery Secretary Badge](https://img.shields.io/badge/-TW%20Stock%20Lottery%20Secretary-3b5998?style=flat&logoColor=white)](https://www.facebook.com/%E8%82%A1%E7%A5%A8%E6%8A%BD%E7%B1%A4%E5%B0%8F%E7%A7%98%E6%9B%B8-115560563215006/) [![Protobuf Deserializer Badge](https://img.shields.io/badge/-Protobuf%20Deserializer-red?style=flat&logoColor=white)](https://protobuf-deserializer.zmcx16.moe/)
-Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-zmcx16-00acee?style=flat&logo=twitter&logoColor=white)](https://twitter.com/zmcx16/) [![Gmail Badge](https://img.shields.io/badge/-zmcx16-e54448?style=flat&logo=Gmail&logoColor=white)](mailto:zmcx16@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-zmcx16-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shunningyou/)
+## 🛠️ My Skills
 
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 20px>  </picture> Programming languages
+
+![PHP](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
+
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 20px>  </picture> Frontend Development
+
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=Axios&logoColor=white)
+
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 20px>  </picture> Data Analysis
+
+![Hive](https://img.shields.io/badge/Hive-FF7A00?style=flat-square&logo=Hive&logoColor=white)
+![ApacheSpark](https://img.shields.io/badge/ApacheSpark-E25A1C?style=flat-square&logo=ApacheSpark&logoColor=white)
+![ApacheHadoop](https://img.shields.io/badge/ApacheHadoop-66CCFF?style=flat-square&logo=ApacheHadoop&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Numpy](https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=flat-square&logo=Scikit-learn&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=PowerBI&logoColor=white)
+
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 20px>  </picture> Software & Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=Markdown&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=JSON&logoColor=white)
+![OpenSSL](https://img.shields.io/badge/OpenSSL-721412?style=flat-square&logo=OpenSSL&logoColor=white)
+
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 20px>  </picture> IDEs
+
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=flat-square&logo=Xcode&logoColor=white)
+
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 20px>  </picture> Operating Systems
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white)
+![MacOS](https://img.shields.io/badge/MacOS-000000?style=flat-square&logo=macOS&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white)
+![KaliLinux](https://img.shields.io/badge/Kali-557C94?style=flat-square&logo=KaliLinux&logoColor=white)
+
+<br>
