@@ -35,4 +35,12 @@
 ![MacOS](https://img.shields.io/badge/MacOS-000000?style=flat-square&logo=macOS&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white)
 
+
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/DevOps.gif?raw=true" width = 20px>  </picture> DevOps
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white)
+![TerraForm](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white)
+
 <br>
